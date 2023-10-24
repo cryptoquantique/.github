@@ -1,5 +1,3 @@
-<img src = https://github.com/cryptoquantique/cryptoquantique.github.io/blob/main/Resources/Images/CQ_LogoV1(Purple).png width="100">
-
 # The only end-to-end IoT solution on the market
 [Crypto Quantique](https://www.cryptoquantique.com/) is an IoT security provider for both OEMs and semiconductor manufacturers servicing the entire supply chain with two independent products.
 
